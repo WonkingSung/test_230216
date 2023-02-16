@@ -6,7 +6,7 @@ let ledStatus = Boolean(false);
 
 // Firebase 접근 정보
 var config = {
-  apiKey: "AIzaSyDljczzS2uR4iskQ5vwGr4RVvQ96kfyGqY",
+ apiKey: "AIzaSyDljczzS2uR4iskQ5vwGr4RVvQ96kfyGqY",
   authDomain: "test-41a2a.firebaseapp.com",
   databaseURL: "https://test-41a2a-default-rtdb.firebaseio.com",
   projectId: "test-41a2a",
